@@ -12,4 +12,4 @@ describe('file 6', function () {
     var result = cap('a quick brown fox jump over a lazy dog.');
     expect(result).toEqual('A Quick Brown Fox Jump Over A Lazy Dog.');
   });
-})
+});

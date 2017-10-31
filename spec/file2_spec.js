@@ -6,4 +6,4 @@ describe('file 2', function () {
   it('should be considered as true', function() {
     expect(1).toBeTruthy();
   });
-})
+});
