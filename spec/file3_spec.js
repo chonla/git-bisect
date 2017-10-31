@@ -1,5 +1,5 @@
 describe('file 3', function () {
-  it('should fail as expected', function() {
+  it('should be false as expected', function() {
     expect(false).toEqual(false);
   });
 
